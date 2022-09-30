@@ -26,6 +26,8 @@ Convert the data into machine readable format for Logistic Regression
 
 - Split the data into train-test datasets.
 - Implement Logistic Regression on the train data.
+![carbon-2](https://user-images.githubusercontent.com/114144676/193324249-320aef72-0285-46ac-b565-a985df577e3a.png)
+
 - Validate the model on test data.
 
 
