@@ -1,6 +1,7 @@
 # Salary Classification <> Logistic Regression
 
-![Stories_of_Data](https://user-images.githubusercontent.com/114144676/193320488-d446e276-ff38-4c43-a747-23f95667f8ef.png)
+![Blue Tosca Geometric Technology Linkedln Banner](https://user-images.githubusercontent.com/114144676/193326726-910371d6-7004-45f6-9564-146fec069729.png)
+
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/story-of-data/salary-classification-logistic-regression)
 
